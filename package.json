@@ -1,0 +1,14 @@
+{
+  "name": "dhl-international-shipping-cost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "country-list-js": "^3.1.7"
+  }
+}
