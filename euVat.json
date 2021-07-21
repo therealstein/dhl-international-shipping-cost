@@ -1,0 +1,191 @@
+[
+  {
+    "Member": "Belgium",
+    "Code": "BE",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "6 / 12",
+    "Rate": 21
+  },
+  {
+    "Member": "Bulgaria",
+    "Code": "BG",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": 9,
+    "Rate": 20
+  },
+  {
+    "Member": "Czech Republic",
+    "Code": "CZ",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "10 / 15",
+    "Rate": 21
+  },
+  {
+    "Member": "Denmark",
+    "Code": "DK",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "-",
+    "Rate": 25
+  },
+  {
+    "Member": "Germany",
+    "Code": "DE",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": 7,
+    "Rate": 19
+  },
+  {
+    "Member": "Estonia",
+    "Code": "EE",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": 9,
+    "Rate": 20
+  },
+  {
+    "Member": "Ireland",
+    "Code": "IE",
+    "Super-reduced Rate": 4.8,
+    "Reduced Rate": "9 / 13.5",
+    "Rate": 23
+  },
+  {
+    "Member": "Greece",
+    "Code": "GR",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "6 / 13",
+    "Rate": 24
+  },
+  {
+    "Member": "Spain",
+    "Code": "ES",
+    "Super-reduced Rate": 4,
+    "Reduced Rate": 10,
+    "Rate": 21
+  },
+  {
+    "Member": "France",
+    "Code": "FR",
+    "Super-reduced Rate": 2.1,
+    "Reduced Rate": "5.5 / 10",
+    "Rate": 20
+  },
+  {
+    "Member": "Croatia",
+    "Code": "HR",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5 / 13",
+    "Rate": 25
+  },
+  {
+    "Member": "Italy",
+    "Code": "IT",
+    "Super-reduced Rate": 4,
+    "Reduced Rate": "5 / 10",
+    "Rate": 22
+  },
+  {
+    "Member": "Cyprus",
+    "Code": "CY",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5 / 9",
+    "Rate": 19
+  },
+  {
+    "Member": "Latvia",
+    "Code": "LV",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5  / 12",
+    "Rate": 21
+  },
+  {
+    "Member": "Lithuania",
+    "Code": "LT",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5 / 9",
+    "Rate": 21
+  },
+  {
+    "Member": "Luxembourg",
+    "Code": "LU",
+    "Super-reduced Rate": 3,
+    "Reduced Rate": 8,
+    "Rate": 17
+  },
+  {
+    "Member": "Hungary",
+    "Code": "HU",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5 / 18",
+    "Rate": 27
+  },
+  {
+    "Member": "Malta",
+    "Code": "MT",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5 / 7",
+    "Rate": 18
+  },
+  {
+    "Member": "Netherlands",
+    "Code": "NL",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": 9,
+    "Rate": 21
+  },
+  {
+    "Member": "Austria",
+    "Code": "AT",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "10 / 13",
+    "Rate": 20
+  },
+  {
+    "Member": "Poland",
+    "Code": "PL",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5 / 8",
+    "Rate": 23
+  },
+  {
+    "Member": "Portugal",
+    "Code": "PT",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "6 / 13",
+    "Rate": 23
+  },
+  {
+    "Member": "Romania",
+    "Code": "RO",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5 / 9",
+    "Rate": 19
+  },
+  {
+    "Member": "Slovenia",
+    "Code": "SI",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "5 / 9.5",
+    "Rate": 22
+  },
+  {
+    "Member": "Slovakia",
+    "Code": "SK",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": 10,
+    "Rate": 20
+  },
+  {
+    "Member": "Finland",
+    "Code": "FI",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "10 /14",
+    "Rate": 24
+  },
+  {
+    "Member": "Sweden",
+    "Code": "SE",
+    "Super-reduced Rate": "-",
+    "Reduced Rate": "6 / 12",
+    "Rate": 25
+  }
+]
